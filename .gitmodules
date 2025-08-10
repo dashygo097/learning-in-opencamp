@@ -6,4 +6,4 @@
 	url = https://github.com/wawahejun/learning-cxx
 [submodule "exercises/rustlings"]
 	path = exercises/rustlings
-	url = https://github.com/wawahejun/Rustlings
+	url = https://github.com/dashygo097/rustlings.git
